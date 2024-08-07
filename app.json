@@ -30,7 +30,7 @@
     "autoRead": {
       "description": "make it true if you want bot to read messages",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "SESSION_ID": {
       "description": "your session id",
